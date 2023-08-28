@@ -1,2 +1,2 @@
 # deepdive
-Deep Dive into Deep Learning Models Implementation
+Various Deep Learning Models Implementation
